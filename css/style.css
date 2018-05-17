@@ -26,7 +26,7 @@ h3{font-size:18px;margin:5px 0px 5px 0px;font-weight:bold;}
 #menu ul li a:hover { font-weight: bold}
 
 #menu ul ul{display: none; position: absolute; top: 100%;left:0; padding:0;z-index:999;width:390px;background:#24945a}
-#menu ul ul li{float:left;display:block; z-index:999,width:33%}
+#menu ul ul li{float:left;display:block; z-index:999; width:33%}
 #menu ul ul a{line-height:120%;padding:10px 15px;color:#fff }
 #menu ul li:hover > ul{display:block}
 
