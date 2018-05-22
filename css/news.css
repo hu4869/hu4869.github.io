@@ -1,0 +1,19 @@
+#news_page .news{
+    border-bottom: #8b8b8b 1px solid;
+    display: inline-block;
+}
+#news_page img{
+    width: 400px;
+    padding-top: 26px;
+}
+
+#news_page .news div{
+    float: left;
+}
+
+#news_page .news > div:first-child{
+    width:420px;
+}
+#news_page .news > div:last-child{
+    width: calc(100% - 420px);
+}

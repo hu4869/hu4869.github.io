@@ -6,10 +6,10 @@
 var i = 0; var path = new Array();
 
 // LIST OF IMAGES
-path[0] = "images/Woodward-Hall-UNCC.jpg";
+// path[0] = "images/Woodward-Hall-UNCC.jpg";
+path[0] = "images/Summer-Retreat-Reedy-Creek-Park.jpg";
 path[1] = "images/2015-AMIA-Joint-Summits.jpg";
 path[2] = "images/Yao-Novel-health-ROI.jpg";
-path[3] = "images/Summer-Retreat-Reedy-Creek-Park.jpg";
 
 function swapImage()
 {

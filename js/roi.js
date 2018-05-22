@@ -1,5 +1,5 @@
-var width = 580,
-    height = 500,
+var width = 480,
+    height = 400,
     bar_width = 50,
     circle_width = 100;
 
