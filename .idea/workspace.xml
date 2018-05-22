@@ -2,40 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fbbc5c5-8846-4a84-a8b6-e9968cc222d5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/news.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/people.css" />
-      <change beforePath="$PROJECT_DIR$/content/AMIA_2015_Joint_Summits_Present.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/content/BRu-ICDM2015.html" afterPath="$PROJECT_DIR$/content/BRu-ICDM2015.html" />
-      <change beforePath="$PROJECT_DIR$/content/Boshu-Ru-Mining-Social-Media-for-Drug-Serendipitous-Usage.html" afterPath="$PROJECT_DIR$/content/Boshu-Ru-Mining-Social-Media-for-Drug-Serendipitous-Usage.html" />
-      <change beforePath="$PROJECT_DIR$/content/Data-Analytics-Challenge-UNCC.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/content/Kim-AMIA.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/content/Lixia-Yao-NLM-Career-Development-Award.html" afterPath="$PROJECT_DIR$/content/Lixia-Yao-NLM-Career-Development-Award.html" />
-      <change beforePath="$PROJECT_DIR$/content/Postdoc-ad.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/content/ROI.html" afterPath="$PROJECT_DIR$/content/ROI.html" />
-      <change beforePath="$PROJECT_DIR$/content/Xu-NLP-talk.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/content/Yaorong-Ge-R01-grant.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/content/Yi-Boshu-Philips-Reseach.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/content/conference.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/content/contact.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/content/events.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/content/health-ROI-story.html" afterPath="$PROJECT_DIR$/content/health-ROI-story.html" />
-      <change beforePath="$PROJECT_DIR$/content/miscellanea.html" afterPath="$PROJECT_DIR$/content/miscellanea.html" />
-      <change beforePath="$PROJECT_DIR$/content/news.html" afterPath="$PROJECT_DIR$/content/news.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/content/people.html" afterPath="$PROJECT_DIR$/content/people.html" />
-      <change beforePath="$PROJECT_DIR$/content/publication.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/content/research.html" afterPath="$PROJECT_DIR$/content/research.html" />
-      <change beforePath="$PROJECT_DIR$/content/resources.html" afterPath="$PROJECT_DIR$/content/resources.html" />
-      <change beforePath="$PROJECT_DIR$/content/teaching.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/content/test0515.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/style" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/css/tablesort.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/roi.js" afterPath="$PROJECT_DIR$/js/roi.js" />
-      <change beforePath="$PROJECT_DIR$/newsfiles/Postdoc-ad_files/filelist.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/newsfiles/Postdoc-ad_files/themedata.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/page.html" afterPath="$PROJECT_DIR$/page.html" />
-      <change beforePath="$PROJECT_DIR$/utilities/home_gallery.js" afterPath="$PROJECT_DIR$/utilities/home_gallery.js" />
+      <change beforePath="$PROJECT_DIR$/css/people.css" afterPath="$PROJECT_DIR$/css/people.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -59,17 +28,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="people.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="people.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/people.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="72" column="52" lean-forward="true" selection-start-line="72" selection-start-column="52" selection-end-line="72" selection-end-column="52" />
+            <state relative-caret-position="166">
+              <caret line="286" column="0" lean-forward="false" selection-start-line="286" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#td#1;n#tr#1;n#table#0;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#td#1;n#tr#2;n#table#0;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="e#10968#10973#0" expanded="true" />
+                <element signature="e#10912#10917#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,6 +49,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="90" lean-forward="false" selection-start-line="7" selection-start-column="90" selection-end-line="7" selection-end-column="90" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="people.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/people.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -105,6 +84,7 @@
       <find>class=&quot;left&quot;</find>
       <find>border=&quot;0&quot;</find>
       <find>d &gt;</find>
+      <find>harr</find>
     </findStrings>
     <replaceStrings>
       <replace>class=&quot;news&quot;</replace>
@@ -123,7 +103,6 @@
         <option value="$PROJECT_DIR$/content/resources.html" />
         <option value="$PROJECT_DIR$/js/roi.js" />
         <option value="$PROJECT_DIR$/css/news.css" />
-        <option value="$PROJECT_DIR$/css/people.css" />
         <option value="$PROJECT_DIR$/content/ROI.html" />
         <option value="$PROJECT_DIR$/content/news.html" />
         <option value="$PROJECT_DIR$/content/health-ROI-story.html" />
@@ -135,6 +114,7 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/content/miscellanea.html" />
         <option value="$PROJECT_DIR$/content/people.html" />
+        <option value="$PROJECT_DIR$/css/people.css" />
       </list>
     </option>
   </component>
@@ -144,11 +124,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="492" />
+    <option name="y" value="129" />
+    <option name="width" value="1038" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -175,6 +155,16 @@
             <path>
               <item name="hu4869.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="hu4869.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hu4869.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hu4869.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hu4869.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hu4869.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -234,22 +224,22 @@
       <updated>1526597678128</updated>
       <workItem from="1526597682150" duration="1035000" />
       <workItem from="1526653939048" duration="1851000" />
-      <workItem from="1526912235312" duration="33138000" />
+      <workItem from="1526912235312" duration="35089000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36024000" />
+    <option name="totallyTimeSpent" value="37975000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="492" y="129" width="1038" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18526785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.249" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27796054" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2821369" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -470,14 +460,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/people.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/ROI.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-901">
@@ -642,15 +624,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/people.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="72" column="52" lean-forward="true" selection-start-line="72" selection-start-column="52" selection-end-line="72" selection-end-column="52" />
+        <state relative-caret-position="166">
+          <caret line="286" column="0" lean-forward="false" selection-start-line="286" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#td#1;n#tr#1;n#table#0;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#td#1;n#tr#2;n#table#0;n#div#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="e#10968#10973#0" expanded="true" />
+            <element signature="e#10912#10917#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/people.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>

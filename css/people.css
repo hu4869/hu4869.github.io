@@ -8,7 +8,7 @@
 }
 
 #people_page table td:last-child{
-    width: 70%;
+    width: 62%;
     vertical-align: top;
 }
 
@@ -17,10 +17,18 @@
 }
 
 #alumni_page table td{
-    width: 25%;
+    width: 20%;
 }
 
 #alumni_page table td:last-child{
-    width: 50%; !important;
+    width: 60%; !important;
+}
+
+#alumni_page table td:first-child{
+    text-align: right;
+}
+
+#alumni_page table td:nth-child(2){
+    text-align: center;
 }
 
