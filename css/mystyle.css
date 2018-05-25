@@ -37,8 +37,7 @@
     display: inline-block;
 }
 #news img{
-    width: 400px;
-    padding-top: 26px;
+    width: 100%;
 }
 
 #news .news div{
