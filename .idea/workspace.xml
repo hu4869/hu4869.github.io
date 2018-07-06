@@ -144,6 +144,9 @@
       <find>border=&quot;0&quot;</find>
       <find>d &gt;</find>
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 89e34cb... new people page
+=======
 >>>>>>> parent of 89e34cb... new people page
 =======
 >>>>>>> parent of 89e34cb... new people page
@@ -189,6 +192,9 @@
         <option value="$PROJECT_DIR$/content/miscellanea.html" />
         <option value="$PROJECT_DIR$/content/people.html" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 89e34cb... new people page
+=======
 >>>>>>> parent of 89e34cb... new people page
 =======
 >>>>>>> parent of 89e34cb... new people page
@@ -206,9 +212,12 @@
     <option name="y" value="-8" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="width" value="1382" />
     <option name="height" value="744" />
 =======
+=======
+>>>>>>> parent of 89e34cb... new people page
 =======
 >>>>>>> parent of 89e34cb... new people page
     <option name="width" value="1296" />
@@ -242,6 +251,7 @@
             </path>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <path>
               <item name="faculty" type="b2602c69:ProjectViewProjectNode" />
               <item name="faculty" type="462c0819:PsiDirectoryNode" />
@@ -263,6 +273,8 @@
               <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="personal" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> parent of 89e34cb... new people page
 =======
 >>>>>>> parent of 89e34cb... new people page
 =======
@@ -335,6 +347,9 @@
       <workItem from="1526653939048" duration="1851000" />
       <workItem from="1526912235312" duration="33138000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 89e34cb... new people page
+=======
 >>>>>>> parent of 89e34cb... new people page
 =======
 >>>>>>> parent of 89e34cb... new people page
@@ -342,6 +357,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="39422000" />
@@ -353,6 +369,8 @@
 =======
 =======
 >>>>>>> parent of 89e34cb... new people page
+=======
+>>>>>>> parent of 89e34cb... new people page
     <option name="totallyTimeSpent" value="36024000" />
   </component>
   <component name="ToolWindowManager">
@@ -361,6 +379,9 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18526785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 89e34cb... new people page
+=======
 >>>>>>> parent of 89e34cb... new people page
 =======
 >>>>>>> parent of 89e34cb... new people page
@@ -368,7 +389,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 89e34cb... new people page
 =======
 >>>>>>> parent of 89e34cb... new people page
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27796054" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -545,6 +569,27 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/people.css">
+<<<<<<< HEAD
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/ROI.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-901">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/Kim-AMIA.html">
+>>>>>>> parent of 89e34cb... new people page
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
@@ -686,6 +731,9 @@
             <element signature="e#10968#10973#0" expanded="true" />
           </folding>
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 89e34cb... new people page
+=======
 >>>>>>> parent of 89e34cb... new people page
 =======
 >>>>>>> parent of 89e34cb... new people page
