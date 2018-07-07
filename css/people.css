@@ -17,10 +17,30 @@
 }
 
 #alumni_page table td{
+<<<<<<< HEAD
+    width: 20%;
+    font-size: 12px;
+    padding: 2px;
+    color: darkslategrey;
+}
+
+#alumni_page table td:last-child{
+    width: 60%; !important;
+}
+
+/*#alumni_page table td:first-child{*/
+    /*text-align: right;*/
+/*}*/
+
+/*#alumni_page table td:nth-child(2){*/
+    /*text-align: center;*/
+/*}*/
+=======
     width: 25%;
 }
 
 #alumni_page table td:last-child{
     width: 50%; !important;
 }
+>>>>>>> ee5558899fe41c760b90b19eb8c12061d7b39b1e
 

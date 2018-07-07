@@ -1,44 +1,57 @@
 <link href="css/people.css" rel="stylesheet" type="text/css" />
 <div class="inside">
-    <div id="people_page">
-    <div class="people">
-        <h3>Principle Investigator: </h3>
-        <table>
-            <tr>
-                <td>
-                    <img src="images/lixia-yao.png" alt="Lixia Yao - UNCC Health Informatics Lab" />
-                </td>
-                <td>
-                    <strong>Lixia Yao</strong>, Ph.D.<br>
-                    Assistant Professor<br>
-                    Email: Yao.Lixia At Mayo DoT edu<br>
-                    Phone: 507-293-7953<br>
-                    <br>
-                    <strong>Biography: </strong><a href="javascript:;" onclick=show("n003")><img class="button" src="images/expand.png" width="10px" height="10px"/>
-                    </a>
-                    <div class="expand" style="display:none" id="bn003">
-                        <p>
-                            Dr. Lixia Yao was an assistant professor in the health informatics lab
-                            from 2013 to 2016 before moving to Mayo Clinic (Rochester, MN).
-                            Previously, she worked as a scientific
-                            investigator at GlaxoSmithKline pharmaceuticals. She received a master degree
-                            in Computational Sciences from the National University of Singapore in 2004 and
-                            a Ph.D. degree in Biomedical Informatics from Columbia University in 2010.
-                            Her research and teaching interests are in the broad areas of health informatics.
-                            Primarily her research focuses on applying data mining, text mining and data
-                            integration techniques on top of various medical data, including electronic
-                            health records, scientific literature and social media data to address real
-                            world problems in healthcare.</p></div>
-                    <p><strong>Degree:</strong> Ph.D. in Biomedical Informatics, Columbia University, New York (2010)</p>
-                    <p>To find out more information about Dr. Yao, please refer to her <a href="files/CV-Lixia-Yao.pdf">CV</a>.</p>
-                </td>
-            </tr>
-        </table>
+    <div class="dropdown">
+        <button class="dropbtn">Jump To</button>
+        <div class="dropdown-content">
+            <a href="#pi">Principle Investigator</a>
+            <a href="#ss">Support Staff</a>
+            <a href="#ra">Research Associate and Fellow</a>
+            <a href="#al">Alumni</a>
+        </div>
     </div>
-    <div class="people">
-        <h3>Support Staff:</h3>
+
+    <div id="people_page">
+    <div class="people panel">
+        <h3 id="pi">Principle Investigator: </h3>
         <div class="tab">
-            <table>
+            <table class="table">
+                <tr>
+                    <td>
+                        <img src="images/lixia-yao.png" alt="Lixia Yao - UNCC Health Informatics Lab" />
+                    </td>
+                    <td>
+                        <strong>Lixia Yao</strong>, Ph.D.<br>
+                        Assistant Professor<br>
+                        Email: Yao.Lixia At Mayo DoT edu<br>
+                        Phone: 507-293-7953<br>
+                        <br>
+                        <strong>Biography: </strong><a href="javascript:;" onclick=show("n003")><img class="button" src="images/expand.png" width="10px" height="10px"/>
+                    </a>
+                        <div class="expand" style="display:none" id="bn003">
+                            <p>
+                                Dr. Lixia Yao was an assistant professor in the health informatics lab
+                                from 2013 to 2016 before moving to Mayo Clinic (Rochester, MN).
+                                Previously, she worked as a scientific
+                                investigator at GlaxoSmithKline pharmaceuticals. She received a master degree
+                                in Computational Sciences from the National University of Singapore in 2004 and
+                                a Ph.D. degree in Biomedical Informatics from Columbia University in 2010.
+                                Her research and teaching interests are in the broad areas of health informatics.
+                                Primarily her research focuses on applying data mining, text mining and data
+                                integration techniques on top of various medical data, including electronic
+                                health records, scientific literature and social media data to address real
+                                world problems in healthcare.</p></div>
+                        <p><strong>Degree:</strong> Ph.D. in Biomedical Informatics, Columbia University, New York (2010)</p>
+                        <p>To find out more information about Dr. Yao, please refer to her <a href="files/CV-Lixia-Yao.pdf">CV</a>.</p>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+    </div>
+    <div class="people panel">
+        <h3 id="ss">Support Staff:</h3>
+        <div class="tab">
+            <table class="table">
                 <tr>
                     <td>
                         <!--<img src="images/place.png"  alt="Erin Martin" />-->
@@ -49,10 +62,10 @@
             </table>
         </div>
     </div>
-    <div class="people">
-        <h3>Research Associate and Fellow:</h3>
+    <div class="people panel">
+        <h3 id="ra">Research Associate and Fellow:</h3>
         <div class="tab">
-            <table>
+            <table class="table">
                 <tr>
                     <td>
                         <img src="images/huang-ming.png"  alt="Ming Huang" />
@@ -119,9 +132,9 @@
         </div>
     </div>
     </div>
-    <div class="people" id="alumni_page">
-        <h3>Alumni:</h3>
-        <table>
+    <div class="people panel" id="alumni_page">
+        <h4 id="al">Alumni:</h4>
+        <table class="table">
             <tr>
                 <td><strong>Name</strong></td>
                 <td><strong>Period in the Group</strong></td>
