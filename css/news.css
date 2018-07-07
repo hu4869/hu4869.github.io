@@ -1,0 +1,19 @@
+#news .news{
+    border-bottom: #8b8b8b 1px solid;
+    display: inline-block;
+}
+#news img{
+    width: 400px;
+    padding-top: 26px;
+}
+
+#news .news div{
+    float: left;
+}
+
+#news .news > div:first-child{
+    width:420px;
+}
+#news .news > div:last-child{
+    width: calc(100% - 420px);
+}

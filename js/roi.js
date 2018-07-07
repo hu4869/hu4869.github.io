@@ -1,7 +1,7 @@
-var width = 480,
+var width = 430,
     height = 400,
     bar_width = 50,
-    circle_width = 100;
+    circle_width = 50;
 
 var columns = [
     'year',
@@ -202,7 +202,7 @@ function drawbubbles(root){
     })
 
     //the hover label
-    label = node.append("g")
+    var label = node.append("g")
         .attr("class","label")
         .attr("transform","translate(0,-40)").attr("visibility", "hidden")
         .each(function(d){
@@ -241,7 +241,7 @@ function drawbubbles(root){
 
         //query demands and show detail info
         d3.selectAll("div[name='detail']").selectAll("div").remove()
-        d3.json("ROI_data/code/"+d.code, function(info){
+        d3.json("content/ROI_data/code/"+d.code, function(info){
             d3.select("#"+root+" div[name='detail']").append("div").html(d.name)
 
             var table = d3.select("#"+root+" div[name='detail']").append("div")
